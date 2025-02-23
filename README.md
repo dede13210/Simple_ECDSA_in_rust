@@ -1,5 +1,4 @@
-[!WARNING]  
-This project is currently in progress.
+:warning: **This project is currently in progress.**
 
 # Simple_ECDSA_in_rust
 This is a small project to understand how work ECDSA and how implement it in Rust.
